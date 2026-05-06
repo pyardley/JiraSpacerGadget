@@ -39,6 +39,14 @@ npm install -g @forge/cli
 In PowerShell, run:
 
 ```powershell
+forge login
+```
+
+You will need the email you use to sign into your Atlassian account and your Atlassian API token.
+
+Next in powershell, run:
+
+```powershell
 forge create
 ```
 
